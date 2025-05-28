@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMSto</string>
+    <string name="selected_image">📷Selected Image</string>
+    <string name="choose_image">📷Choose Image</string>
+    <string name="encode">🛠️Encode</string>
+    <string name="copy">📋Copy</string>
+    <string name="switch_to_decoder">🔀Switch to Decoder</string>
+    <string name="paste_encoded_text">📋Paste Encoded Text</string>
+    <string name="paste">📋Paste</string>
+    <string name="decode">🛠️Decode</string>
+    <string name="save_image">📷Save Image</string>
+    <string name="switch_to_encoder">🔀Switch to Encoder</string>
+    <string name="decoded_image">🛠️Decoded Image</string>
+</resources>
